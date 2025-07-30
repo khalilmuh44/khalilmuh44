@@ -42,6 +42,5 @@
 
 ###
 
-<p align="left">[Hello World!!](https://github.com/khalilmuh44/b-casual/blob/master/Screenshot%202025-07-30%20055928.png)</p>
-
+<p align="left">[hello](https://www.linkedin.com/feed/)</p>
 ###
